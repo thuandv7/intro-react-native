@@ -1,4 +1,4 @@
-Anh Thuần sửa lại 1 số cách đặt tên thư mục nhé, em gợi ý như sau.
+# Cấu trúc của một project react-native
 Các ví dụ em có nêu cụ thể ^^.
 
 ```
