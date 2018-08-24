@@ -1,5 +1,5 @@
 # Cấu trúc của một project react-native
-Các ví dụ em có nêu cụ thể ^^.
+
 
 ```
 Root
